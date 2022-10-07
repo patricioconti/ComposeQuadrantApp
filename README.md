@@ -7,7 +7,7 @@ A simple screen using Jetpack Compose. The screen is divided in quarters.
 
 Layout Structure
 --------------
-<img src="./screenshots/CQA_Layout.jpg" width="70%" height="70%">
+<img src="./screenshots/CQA_Layout.jpg" width="85%" height="85%">
 
 Language 
 --------------
@@ -15,7 +15,7 @@ Kotlin
 
 Screenshots
 --------------
-<img src="./screenshots/CQA_HomeScreen.jpg" width="40%" height="40%">
+<img src="./screenshots/CQA_HomeScreen.jpg" width="50%" height="50%">
 
 
 Purpose
